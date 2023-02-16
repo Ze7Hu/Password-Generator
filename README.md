@@ -15,7 +15,7 @@ Should the users input be invalid, an alert will pop up clarifying the reason wh
 Once all prompts are addressed ans the chosen password matches the required standard, the password will be displayed on the page.
 
 
-#Technologies used
+#Technologies used:
 HTMl
 CSS
 JavaScript
