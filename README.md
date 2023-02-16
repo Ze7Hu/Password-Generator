@@ -4,7 +4,7 @@
 Modify starter code to create an application that enables employees to generate random passwords based on criteria that they have selected
 
 #Github Pages 
-Locate the deployed application on Github pages here[here]
+Locate the deployed application on Github pages here[https://ze7hu.github.io/Password-Generator/]
 
 #Description
 
